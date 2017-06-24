@@ -7,7 +7,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="ad0424.yls.example.com.news.activity.CollectionActivity">
+    >
 
     <android.support.design.widget.CoordinatorLayout
         android:layout_width="match_parent"
